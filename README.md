@@ -1,2 +1,2 @@
-# All files for disruptArmy overnight Hackathon on 30 Sep 2016 @Manoa Innovation Center
-### You will find PowerPoint presentations, requirements, data, and submission links. 
+# All files for disruptArmy overnight Hackathons 
+### You will find presentations, requirements, data, and submission links for each hackathon by date. 
